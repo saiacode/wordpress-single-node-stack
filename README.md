@@ -1,0 +1,1 @@
+# wordpress-single-node-stack
